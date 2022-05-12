@@ -4,7 +4,7 @@ My name is Demetriu, i'm from Brazil 🇧🇷 and study Front-end / Mobile. 🧑
 Passionate about solving problems, studying and learning.
 
 - 📍 From PE living in Recife.
-- 📖 currently learning JavaScript, Html, Css and their frameworks and libraries 💜.
+- 📖 currently learning Python, JavaScript, Html, Css and their frameworks and libraries 💜.
 - 💡 interest in ux / ui design
 
 
