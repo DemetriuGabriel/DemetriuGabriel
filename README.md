@@ -1,36 +1,29 @@
-# Hello, Friend 👋
-My name is Demetriu, i'm from Brazil 🇧🇷 and study Front-end / Mobile. 🧑‍💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-Passionate about solving problems, studying and learning.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a2be2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Demetriu+Gabriel;I'm+20+years+old;I'm+from+Brazil;Graduating+in+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 📍 From PE living in Recife.
-- 📖 currently learning Python, JavaScript, Html, Css and their frameworks and libraries 💜.
-- 💡 interest in ux / ui design
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=demetriugabriel&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+</div>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=demetriugabriel&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Connect with me 👇🏾:
-[![Instagram Badge](https://img.shields.io/badge/-@demetriu.gabriel-FF2283?style=flat-square&labelColor=FF2283&logo=instagram&logoColor=white&link=https://instagram.com/demetriu.gabriel)](https://instagram.com/demetriu.gabriel) 
-[![Linkedin Badge](https://img.shields.io/badge/-Demetriu%20Gabriel-FF2283?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demetriugabriel/)](https://www.linkedin.com/in/demetriugabriel/) 
-[![Gmail Badge](https://img.shields.io/badge/-demetriugabriel2002@gmail.com-FF2283?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demetriugabriel2002@gmail.com)](mailto:demetriugabriel2002gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=demetriugabriel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-## Languages and tools ⚙️:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-<!--
-**DemetriuGabriel/DemetriuGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+<a href="https://instagram.com/demetriu.gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:demetriugabriel2002@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/demetriu-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+  
+   ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
