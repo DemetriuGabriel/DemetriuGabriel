@@ -7,11 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetriuGabriel&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DemetriuGabriel&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DemetriuGabriel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DemetriuGabriel&&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/demetriu.gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
