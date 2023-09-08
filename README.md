@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=demetriugabriel&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetriuGabriel&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=demetriugabriel&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
